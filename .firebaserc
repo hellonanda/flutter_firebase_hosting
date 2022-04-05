@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "my-website-7ebe3"
-  }
+    "default": "flutter-webhost",
+    "testing": "flutter-webhost"
+  },
+  "targets": {}
 }
