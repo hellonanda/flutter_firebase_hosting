@@ -1,7 +1,6 @@
 {
   "projects": {
-    "default": "flutter-webhost",
-    "testing": "flutter-webhost"
+    "default": "flutter-webhost"
   },
   "targets": {}
 }
